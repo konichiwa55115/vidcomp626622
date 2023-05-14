@@ -1,4 +1,3 @@
-aiohttp
 Pillow
 psutil
 hachoir
