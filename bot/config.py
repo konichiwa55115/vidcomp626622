@@ -8,7 +8,7 @@ class Config(object):
     # Put MongoDB URL
     DATABASE_URL = get_config("DATABASE_URL", "mongodb+srv://Bala7a19871:Ibntaymya1.@cluster0.5mtsc.mongodb.net/?retryWrites=true&w=majority")
     # get a token from @BotFather
-    TG_BOT_TOKEN = get_config("TG_BOT_TOKEN", "6165770459:AAESXIMCGE1zQ2TTk-yKj8nMvTg9hYyY7KU")
+    TG_BOT_TOKEN = get_config("TG_BOT_TOKEN", "6007861522:AAFnbVI_PLo5C1eDjddTfpxxpOFjeFt_xKo")
     # The Telegram API things
     APP_ID = int(get_config("APP_ID", 17983098))
     API_HASH = get_config("API_HASH", "ee28199396e0925f1f44d945ac174f64")
